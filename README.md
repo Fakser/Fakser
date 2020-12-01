@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on stuff
 - 🤔 I’m looking for help with yes
 - 💬 Ask me about enything you want, I will try to answer
-- 📫 How to reach me: krzysztof.kraamarz2gmail.com
+- 📫 How to reach me: [gmail](krzysztof.kraamarz@gmail.com) [linkedin](https://www.linkedin.com/in/krzysztof-kramarz/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm currently in love with kendo/iaido
 -->
