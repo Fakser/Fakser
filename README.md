@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on developing different [GANs in Matlab](https://github.com/Fakser/Matlab-GANs) 
-- 🌱 I’m currently learning Matlab and Convolutional Neural Networks
-- 👯 I’m looking to collaborate on stuff
-- 🤔 I’m looking for help with yes
+- 🔭 I’m currently working on [Reccomender Seystems](https://github.com/Fakser/Reccomenders) 
+- 🌱 I’m currently learning how to live 
+- 👯 I’m looking to collaborate 
+- 🤔 I’m looking for help 
 - 💬 Ask me about enything you want, I will try to answer
 - 📫 How to reach me: [gmail](krzysztof.kraamarz@gmail.com) [linkedin](https://www.linkedin.com/in/krzysztof-kramarz/)
 - 😄 Pronouns: ...
