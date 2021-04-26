@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Reccomender Seystems](https://github.com/Fakser/Reccomenders) 
+- 🔭 I’m currently working on [Reccomender Systems](https://github.com/Fakser/Reccomenders) 
 - 🌱 I’m currently learning how to live 
 - 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help 
