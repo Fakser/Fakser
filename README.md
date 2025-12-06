@@ -7,7 +7,6 @@
 - 📫 How to reach me: b.krzysztof.kramarz@gmail.com
 - 😄 Pronouns: yes master...
 - ⚡ Fun fact: I cannot breathe under water. 
--->
 <!--
 **Fakser/Fakser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
